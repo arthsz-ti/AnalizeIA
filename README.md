@@ -1,7 +1,3 @@
-Aqui está uma versão mais concisa e direta, ideal para um arquivo `README.md` objetivo:
-
----
-
 # AnalizeIA – Análise de Imagens com IA
 ### Atividade Integradora: Visão Computacional e Deep Learning
 
