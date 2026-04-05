@@ -8,7 +8,7 @@ Sistema de visão computacional que integra processamento digital de imagem e in
 ## 👥 Equipe
 * **Arthur Saraiva de Souza** (RA: 2404043)
 * **Lucas Gobbo Cruz** (RA: 2406898)
-* **William** (RA: 2424242)
+* **William** (RA: 2404305)
 
 ---
 
